@@ -2,9 +2,6 @@ public class Cheer {
 
     public static void cheer(int param) {
 
-        System.out.println("pénzenergia");
-
-        System.out.println("javaaa");
-
+        System.out.println("Cheer for the " + param);
     }
 }
