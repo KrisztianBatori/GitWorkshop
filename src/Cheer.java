@@ -4,6 +4,7 @@ public class Cheer {
 
         System.out.println("pénzenergia");
 
-        
+        System.out.println("javaaa");
+
     }
 }
