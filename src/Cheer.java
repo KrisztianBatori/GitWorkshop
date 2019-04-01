@@ -4,7 +4,7 @@ public class Cheer {
         cheer(5);
         Greet.greet("Anikó");
         Count.count();
-        Future.future();
+        Future.future(99);
     }
 
     public static void cheer(int param) {
