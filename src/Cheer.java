@@ -2,7 +2,7 @@ public class Cheer {
 
     public static void main(String[] args) {
         cheer(5);
-        Greet.greet();
+        Greet.greet("Anikó");
         Count.count();
         Future.future();
     }
