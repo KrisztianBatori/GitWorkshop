@@ -1,5 +1,5 @@
 public class Count {
     public static void count() {
-        System.out.println(7);
+        System.out.println("Counting the countless parameter: " + 7);
     }
 }
