@@ -1,10 +1,8 @@
 public class Cheer {
 
-    public static void cheer(int param) {
+    public static void cheer(int param, int ultraParam) {
 
-        System.out.println("pénzenergia");
-
-        System.out.println("javaaa");
+        System.out.println("Ez egy param: " + param + ". Meg ez is egy param: " + ultraParam);
 
     }
 }
